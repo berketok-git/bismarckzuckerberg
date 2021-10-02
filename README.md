@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hasgerian
 - 👀 I’m interested in developing Mobile Apps
-- 🌱 I’m currently learning Swift and Kotlin
+- 🌱 I’m currently learning Swift,Kotlin,Flutter,Python
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me mail:hasgerian@gmail.com Discord:Bismarckzuckerberg#0996
 
