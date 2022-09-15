@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Bismarckzuckerberg
-- 👀 I’m interested in developing Mobile Apps
-- 🌱 I’m currently learning Swift, Flutter, JavaScript
-- 💞️ I’m looking to collaborate on any mobile app project
 - 📫 How to reach me mail:mail@berketok.com Discord:Bismarckzuckerberg#0996
 
 
