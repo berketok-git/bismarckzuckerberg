@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bismarckzuckerberg
-- 📫 How to reach me mail:mail@berketok.com Discord:Bismarckzuckerberg#0996
+- 📫 How to reach me mail:mail@berketok.com 
 
 
 <!---
